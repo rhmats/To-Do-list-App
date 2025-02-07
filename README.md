@@ -3,8 +3,9 @@
 ![Laravel](https://img.shields.io/badge/Laravel-10.x-red?style=for-the-badge&logo=laravel)
 ![PHP](https://img.shields.io/badge/PHP-8.x-purple?style=for-the-badge&logo=php)
 
-![Screenshot (70)](https://github.com/user-attachments/assets/6a43cc21-cb36-4619-afa7-3055da270cfc)
-![Screenshot (71)](https://github.com/user-attachments/assets/a5476e4d-6f52-4172-991d-c642187a448f)
+![Screenshot (70)](https://github.com/user-attachments/assets/8458119d-4638-4da8-ac81-04d83f76db80)
+![Screenshot (71)](https://github.com/user-attachments/assets/1a92557d-72e3-4b3d-be0a-c1b5dac5f2e8)
+
 
 ## 📌 Overview
 To-Do List App is a web-based application used to manage task lists with CRUD (Create, Read, Update, Delete) features. Built using **Laravel**, **Bootstrap** and uses **Modernize Free Version** as a responsive UI template.
